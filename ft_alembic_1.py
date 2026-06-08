@@ -7,5 +7,6 @@ def main() -> None:
     string: str = create_water()
     print(f"Testing create_water: {string}")
 
+
 if __name__ == "__main__":
     main()

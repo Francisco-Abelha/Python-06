@@ -1,4 +1,4 @@
-from .light_validator import *
+from .light_validator import allowed_ingredients_list, validate_ingredients
 
 
 def light_spell_allowed_ingredients() -> list[str]:

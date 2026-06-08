@@ -7,5 +7,6 @@ def main() -> None:
     string: str = alchemy.elements.create_earth()
     print(f"Testing create_earth: {string}")
 
+
 if __name__ == "__main__":
     main()
